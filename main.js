@@ -21,3 +21,5 @@ function sum (){
 }
 sum()
 
+console.log("hey bro")
+
