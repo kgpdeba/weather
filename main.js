@@ -17,7 +17,7 @@
 var x = 5
 function sum (){
     console.log(x)
-    var x = 7
+    var x = 8
 }
 sum()
 
